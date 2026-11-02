@@ -32,7 +32,7 @@ Recreated an interactive puppy-themed website with a focus on responsive layout,
 
 **Highlights:** responsive UI · scroll interactions · animation debugging · cross-device testing
 
-> 🔗 **Live demo and source code:** Add your verified TeddyPups URLs here once available. I have not inserted placeholder links that would lead to a broken page.
+> 🔗 **Live demo and source code:** [Add your verified TeddyPups URLs here once available. I have not inserted placeholder links that would lead to a broken page.](https://teddypuppies.vercel.app/)
 
 ## 🚀 More Projects
 
