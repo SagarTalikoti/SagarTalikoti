@@ -1,48 +1,92 @@
+<!-- GitHub profile README for github.com/SagarTalikoti -->
 <div align="center">
 
-# Sagar Talikoti
+# Hi, I'm Sagar Talikoti 👋
 
-### Software Developer · Full-Stack Applications · Backend Engineering · AI Automation
+### Software Developer · Full-Stack Development · AI & Automation
 
-Building practical software, reliable APIs, and automation workflows.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+interactive+web+experiences;Developing+APIs+and+backend+services;Exploring+DevOps+and+AI+automation" alt="Animated introduction" />
 
-[GitHub](https://github.com/SagarTalikoti) · [Repositories](https://github.com/SagarTalikoti?tab=repositories)
+[![Projects](https://img.shields.io/badge/Explore_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarTalikoti?tab=repositories)
+[![TeddyPups](https://img.shields.io/badge/Featured-TeddyPups-EC4899?style=for-the-badge&logo=githubsponsors&logoColor=white)](#-teddypups--featured-project)
+[![Tech Stack](https://img.shields.io/badge/View-Tech_Stack-0891B2?style=for-the-badge&logo=stackshare&logoColor=white)](#-tech-stack)
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-I'm a Computer Science graduate interested in turning real-world problems into working software. My projects span Go backend services, authentication systems, containerized applications, responsive websites, and AI-assisted automation.
+I'm a Computer Science graduate interested in developing **responsive websites, practical backend services, and automation workflows**. I enjoy translating ideas into working products, learning modern tools, and improving user experiences.
 
-- **Backend:** Go, REST APIs, PostgreSQL, MySQL, SQLite
-- **Frontend:** JavaScript, React, HTML, CSS
-- **Infrastructure:** Docker, Docker Compose, Linux, Git
-- **Automation:** n8n and AI-assisted development workflows
-- **Currently exploring:** Kubernetes and cloud-native development
+- 🎨 **Frontend:** responsive design, interactivity, and animations
+- ⚙️ **Backend:** REST APIs, application logic, and databases
+- 🐳 **DevOps:** Docker, Linux, and development workflows
+- 🤖 **Automation:** n8n and AI-assisted development
 
-## Selected projects
+## 🐶 TeddyPups — Featured Project
 
-### [Containerized CLI Login System](https://github.com/SagarTalikoti/containerized-cli-login-system)
-A Go-based interactive authentication application packaged with Docker. Includes password hashing, optional TOTP two-factor authentication, lockout protection, session expiration, and SQLite persistence.
+**Interactive, animation-focused website recreation**
 
-`Go` `SQLite` `Docker` `Authentication` `TOTP`
+Recreated an interactive puppy-themed website with a focus on responsive layout, scroll-based interactions, animation behavior, and visual detail.
 
-### [Pet Clinic API](https://github.com/SagarTalikoti/pet-clinic)
-A REST-style backend API built with Go and PostgreSQL. Demonstrates application structure, route handlers, data modeling, and database integration.
+**Highlights:** responsive UI · scroll interactions · animation debugging · cross-device testing
 
-`Go` `PostgreSQL` `REST API`
+> 🔗 **Live demo and source code:** Add your verified TeddyPups URLs here once available. I have not inserted placeholder links that would lead to a broken page.
 
-### [More repositories](https://github.com/SagarTalikoti?tab=repositories)
-Explore my other experiments and projects in web development, Go, and containerization.
+## 🚀 More Projects
 
-## How I work
+| Project | What it demonstrates | Link |
+|---|---|---|
+| 🔐 **Containerized CLI Login System** | Go, Docker, SQLite, authentication workflows | [GitHub repositories](https://github.com/SagarTalikoti?tab=repositories) |
+| 🩺 **Pet Clinic API** | Go, PostgreSQL, REST API concepts | [GitHub repositories](https://github.com/SagarTalikoti?tab=repositories) |
+| ⚡ **AI & Automation Experiments** | n8n, Docker, AI-assisted tooling | [Explore all projects](https://github.com/SagarTalikoti?tab=repositories) |
 
-I focus on understanding requirements, breaking problems into smaller components, writing maintainable code, and testing the result. I use AI coding assistants when useful for prototyping and debugging, and review the generated implementation before relying on it.
+## 🧰 Tech Stack
 
-## Let's connect
+<div align="center">
 
-I'm interested in software engineering opportunities where I can contribute to production applications, strengthen my engineering skills, and work on useful products.
+**Frontend**
 
-[Explore my GitHub →](https://github.com/SagarTalikoti)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Vite" />
+
+**Backend & Programming**
+
+<img src="https://skillicons.dev/icons?i=go,nodejs,php,python&theme=dark" alt="Go, Node.js, PHP, Python" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="MySQL, PostgreSQL, SQLite, MongoDB" />
+
+**DevOps & Development Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,nginx,git,github,vscode&theme=dark" alt="Docker, Kubernetes, Linux, Bash, Nginx, Git, GitHub, VS Code" />
+
+**AI & Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-232323?style=for-the-badge&logo=cursor&logoColor=white)
+![AI Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-7C3AED?style=for-the-badge)
+
+<sub>Includes hands-on technologies and tools I am actively learning.</sub>
+
+</div>
+
+## 📊 GitHub
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/SagarTalikoti?style=for-the-badge&color=8B5CF6&labelColor=161B22)](https://github.com/SagarTalikoti?tab=followers)
+[![GitHub profile](https://img.shields.io/badge/View_My_Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarTalikoti?tab=repositories)
+
+</div>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarTalikoti)
+
+**Thanks for stopping by!** 🌈
+
+</div>
